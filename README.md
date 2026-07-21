@@ -159,6 +159,19 @@ projects/
 - Showcase troubleshooting and network documentation.
 - Present a professional portfolio for Network Engineering opportunities.
 
+
+<h3>🔧 Cisco Network Engineering Lab Collection</h3>
+
+<p>
+A collection of standalone Cisco Packet Tracer labs completed while studying for the Cisco CCNA certification. These labs focus on individual networking technologies including switching, routing, VLANs, OSPF, DHCP, NAT/PAT, ACLs, IPv6, wireless networking, and troubleshooting.
+</p>
+
+<p>
+<a href="https://github.com/VanessaPlendl/ccna-labs">
+🔗 View Cisco Network Engineering Lab Collection
+</a>
+</p>
+
 ---
 
 > **This portfolio simulates the growth of Paddle Summit Co. from a single retail location into a secure, scalable enterprise network supporting retail stores, distribution, and e-commerce while documenting each stage of the journey.**
